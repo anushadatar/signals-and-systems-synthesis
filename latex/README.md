@@ -1,2 +1,1 @@
-Images associated with final concept map
-
+Typesetting for equations
