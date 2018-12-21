@@ -1,1 +1,0 @@
-Typesetting for equations
